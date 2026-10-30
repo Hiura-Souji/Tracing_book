@@ -4,6 +4,8 @@
 
 格雷資訊 grayfree.tw ・ GitHub @Hiura-Souji
 
+<img width="1650" height="1100" alt="2026-10-30_095536" src="https://github.com/user-attachments/assets/405b2a20-79a0-460d-adff-1bfb291cfd16" />
+
 ## 兩種用法
 
 | | 網頁版 | 桌面版（AutoIt＋AUI WebView2） |
